@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba107ad3.css",
+    "main.js": "/static/js/main.57345581.js",
+    "static/media/hero.png": "/static/media/hero.e05c4f68c30fe9cf6500.png",
+    "static/media/robot.png": "/static/media/robot.b3924d6a4b8b19ef9de9.png",
+    "static/media/hero1.png": "/static/media/hero1.41729740d38aaa2fc159.png",
+    "static/media/png-transparent-3d-rocket-removebg-preview.png": "/static/media/png-transparent-3d-rocket-removebg-preview.2b4075040d4c908c562b.png",
+    "static/media/png-clipart-rocket-flat-design-rocket-3d-computer-graphics-grey-removebg-preview.png": "/static/media/png-clipart-rocket-flat-design-rocket-3d-computer-graphics-grey-removebg-preview.69236ee8249ea2ab7a72.png",
+    "static/media/resized.png": "/static/media/resized.210bb175172964897194.png",
+    "static/media/why-img.png": "/static/media/why-img.83f7e1610dd390441337.png",
+    "static/media/smallersize.png": "/static/media/smallersize.723edf37875f413015e5.png",
+    "static/media/solana.png": "/static/media/solana.b7576261499286cc0e2b.png",
+    "static/media/newsletter-box.png": "/static/media/newsletter-box.dd5db68847295ec1ef17.png",
+    "index.html": "/index.html",
+    "main.ba107ad3.css.map": "/static/css/main.ba107ad3.css.map",
+    "main.57345581.js.map": "/static/js/main.57345581.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba107ad3.css",
+    "static/js/main.57345581.js"
+  ]
+}
